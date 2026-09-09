@@ -1,0 +1,66 @@
+~~~~BST MENU~~~~
+1.Create a BST
+2.Display
+3.Search
+4.EXIT
+Enter your choice:1
+
+Enter the number of elements:7
+
+Enter the value:12
+
+Enter the value:35
+
+Enter the value:76
+
+Enter the value:13
+
+Enter the value:67
+
+Enter the value:24
+
+Enter the value:64
+
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Display
+3.Search
+4.EXIT
+Enter your choice:2
+
+The preorder display:12351324766764
+The Inorder display:12132435646776
+The postorder display:24136467763512
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Display
+3.Search
+4.EXIT
+Enter your choice:3
+
+Enter Element to be searched:64
+
+Key element is present in BST
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Display
+3.Search
+4.EXIT
+Enter your choice:3
+
+Enter Element to be searched:1
+
+Key element is not found in the BST
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Display
+3.Search
+4.EXIT
+Enter your choice:4
+aidslab109@aidslab109-desktop:~/Desktop/dslab421125106045/ex05$ 
+
+

@@ -1,0 +1,47 @@
+Queue operations Menu:
+1.Enqueue
+2.Dequeue
+3.Display
+Enter your choice:1
+Enter element to enqueue:10
+Element enqueued:10
+nQueue operations Menu:
+1.Enqueue
+2.Dequeue
+3.Display
+Enter your choice:1
+Enter element to enqueue:20
+Element enqueued:20
+nQueue operations Menu:
+1.Enqueue
+2.Dequeue
+3.Display
+Enter your choice:1
+Enter element to enqueue:30
+Element enqueued:30
+nQueue operations Menu:
+1.Enqueue
+2.Dequeue
+3.Display
+Enter your choice:3
+Queue elements:10->20->30->NULL
+nQueue operations Menu:
+1.Enqueue
+2.Dequeue
+3.Display
+Enter your choice:2
+Dequeue element:10
+nQueue operations Menu:
+1.Enqueue
+2.Dequeue
+3.Display
+Enter your choice:3
+Queue elements:20->30->NULL
+nQueue operations Menu:
+1.Enqueue
+2.Dequeue
+3.Display
+Enter your choice:4
+aidslab109@aidslab109-desktop:~/Desktop/dslab421125106045/ex04$ 
+
+

@@ -1,0 +1,52 @@
+Stack operations menu:
+1.Push
+2.Pop
+3.Display
+4.exit
+Enter your choice:1
+Enter element to push:10
+Element pushed: 10
+
+Stack operations menu:
+1.Push
+2.Pop
+3.Display
+4.exit
+Enter your choice:1
+Enter element to push:20
+Element pushed: 20
+
+Stack operations menu:
+1.Push
+2.Pop
+3.Display
+4.exit
+Enter your choice:3
+stack elements:2010
+
+Stack operations menu:
+1.Push
+2.Pop
+3.Display
+4.exit
+Enter your choice:2
+
+Popped element:20
+
+Stack operations menu:
+1.Push
+2.Pop
+3.Display
+4.exit
+Enter your choice:3
+stack elements:10
+
+Stack operations menu:
+1.Push
+2.Pop
+3.Display
+4.exit
+Enter your choice:4
+aidslab109@aidslab109-desktop:~/Desktop/dslab421125106045/ex03$ 
+
+

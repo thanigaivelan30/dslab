@@ -1,0 +1,90 @@
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 1
+Enter data to insert at end: 20
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 1
+Enter data to insert at end: 20
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 1
+Enter data to insert at end: 40
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 1
+Enter data to insert at end: 60
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 1
+Enter data to insert at end: 80
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 3
+Enter element to search: 20
+Element found at position: 0
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 4
+Enter position to delete (0 - based index): 0 
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 5
+Linked List: 20 -> 40 -> 60 -> 80 -> NULL
+
+Singly Linked List Operations Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 6
+

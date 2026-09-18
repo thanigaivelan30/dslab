@@ -1,0 +1,7 @@
+Preorder traversal of the constructed AVL tree is 
+910-15261011
+
+Preorder traversal after deletion of 10
+10-1952611aidslab109@aidslab109-desktop:~/Desktop/dslab421125106045/ex06$ 
+
+

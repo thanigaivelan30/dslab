@@ -1,0 +1,12 @@
+Graph adjacency list:
+Vertex 0:2 ->1 ->NULL
+Vertex 1:3 ->2 ->0 ->NULL
+Vertex 2:3 ->1 ->0 ->NULL
+Vertex 3:2 ->1 ->NULL
+
+BFS Traversal starting from vertex 0:
+Visited 0
+Visited 2
+Visited 1
+Visited 3
+

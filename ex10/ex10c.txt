@@ -1,0 +1,31 @@
+-----INSERTION SORT------
+Enter the number of elements:4
+Enter 4 elements:
+1
+56
+23
+78
+
+Menu:
+1.Sort using Insertion sort
+2.Print the sorted array
+3.Exit
+Enter your choice:1
+Array sorted using Insertion sort.
+
+Menu:
+1.Sort using Insertion sort
+2.Print the sorted array
+3.Exit
+Enter your choice:2
+Sorted array:1235678
+
+Menu:
+1.Sort using Insertion sort
+2.Print the sorted array
+3.Exit
+Enter your choice:3
+Exiting the program.
+aidslab109@aidslab109-desktop:~/Desktop/dslab421125106045/ex10$ 
+
+

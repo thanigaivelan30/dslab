@@ -1,0 +1,20 @@
+***Binary search***
+
+Enter the number of elements(max 20):4
+Enter 4 numbers in ascending order:
+a[0]=23
+a[1]=45
+a[2]=67
+a[3]=87
+Enter the search element:45
+Element 45 found at index 1.
+***Binary search***
+
+Enter the number of elements(max 20):4
+Enter 4 numbers in ascending order:
+a[0]=56
+a[1]=78
+a[2]=87
+a[3]=90
+Enter the search element:10
+Element 10 is not present in the array.
